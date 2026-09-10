@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw and processed datasets
+data_raw/
+data_processed/
+
+# Saved machine-learning models
+*.joblib
+
+# Operating system files
+.DS_Store
+Thumbs.db
