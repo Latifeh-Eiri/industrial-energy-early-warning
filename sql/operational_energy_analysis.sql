@@ -229,7 +229,7 @@ ORDER BY max_increase_1h_kw DESC
 LIMIT 10;
 
 -- =========================================================
--- 8. Tableau-Ready Operational Energy View
+-- 8. Dashboard-Ready Operational Energy View
 -- =========================================================
 
 CREATE OR REPLACE VIEW vw_energy_dashboard AS
